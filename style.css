@@ -1,0 +1,23 @@
+.container{
+
+    box-shadow: 7px 7px 10px rgb(195, 25, 210);
+    background: linear-gradient(to right, indigo, purple );
+    padding: 50px;
+    gap: 20px;
+    width: 70%;
+    height: 100%;
+    margin-bottom: 50px;
+}
+
+.titulo{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.form-control{
+    display: block;
+}
+
+h1{
+    text-shadow: 2px 2px 2px rgba(245, 244, 244, 0.601);
+
+}
